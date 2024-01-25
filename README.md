@@ -6,3 +6,10 @@
 5. Wotla - <https://wotla.widdyjp.dev/> - Developed by Widdy JP
 6. Guess Blurred JKT48 Member - <https://jkt48-blurred-agm4r.vercel.app/> - Developed by Agmar
 7. JKT48 Blind Ranking Oshi - <https://jkt48-blurred-agm4r.vercel.app/blind-ranking-oshi> - Developed by Agmar
+
+Games
+1. Floniverse Adventure - <https://habilihsanproject.github.io/floniverse/> - Developed by HIBIKUN
+2. Chika Kembar - <https://hasubieruha.github.io/chikakembar/> - Developed by Hasubi Eruha
+3. Azizi Keren - <https://hasubieruha.github.io/azizikeren/> - Developed by Hasubi Eruha
+4. Chika Watermelon - <https://yssctmr.github.io/watermelon/> - Developed by yssctmr
+5. Krispi Blast - <https://krispiblast-yssctmr.vercel.app/> - Developed by yssctmr
