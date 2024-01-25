@@ -23,3 +23,8 @@ Games
 3. Azizi Keren - <https://hasubieruha.github.io/azizikeren/> - Developed by Hasubi Eruha
 4. Chika Watermelon - <https://yssctmr.github.io/watermelon/> - Developed by yssctmr
 5. Krispi Blast - <https://krispiblast-yssctmr.vercel.app/> - Developed by yssctmr
+
+Bot Telegram
+1. JKT48 Live Bot - <https://t.me/JKT48Live>
+2. JKT48 Live Command Bot - <https://t.me/JKT48LiveCmdBot>
+3. JKT48 PM Downloader Bot - <https://t.me/pmdownloadbot>
