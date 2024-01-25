@@ -3,13 +3,15 @@
 2. Wots48 (Android Version) - <https://play.google.com/store/apps/details?id=co.median.android.ejrljj> - Developed by PT Deutsche Freunde Indonesia
 3. Wots48 (Web Version) - <https://dc.crstlnz.my.id/> - Developed by crstlnz
 4. JKT48 Wiki - <https://jkt48wiki.miraheze.org/> - Developed by penguinwota
-5. JKT48 Information Center - <https://jkt48.vercel.app/> - Developed by penguinwota
-6. Sajak JKT48 - <https://jkt48hub.github.io/sajak> - Developed by Rifki Ardiansyah
-7. JKT48 Showroom (Fans Version) - <https://www.jkt48showroom.com/> - Developed by Ikhbal Dwiyantoro and Aldy Revigustian
-8. JKT48 Member Sorter - <https://jkt48membersorter.vercel.app/> - Developed by Aditya Dwi Wicaksono
-9. Wotla - <https://wotla.widdyjp.dev/> - Developed by Widdy JP
-10. Guess Blurred JKT48 Member - <https://jkt48-blurred-agm4r.vercel.app/> - Developed by Agmar
-11. JKT48 Blind Ranking Oshi - <https://jkt48-blurred-agm4r.vercel.app/blind-ranking-oshi> - Developed by Agmar
+5. JKT48 Information Center - <https://jkt48.vercel.app/> - Developed by penguinwota (Archived)
+7. Sajak JKT48 - <https://jkt48hub.github.io/sajak> - Developed by Rifki Ardiansyah
+8. JKT48 Showroom (Fans Version) - <https://www.jkt48showroom.com/> - Developed by Ikhbal Dwiyantoro and Aldy Revigustian
+9. JKT48 Member Sorter - <https://jkt48membersorter.vercel.app/> - Developed by Aditya Dwi Wicaksono
+10. JKT48 Member Rank Battle - <https://kudapan-rumput.github.io/> - Developed by kudapanrumput (Last updated on Jul 5, 2021)
+11. JKT48 Ship Rank Battle - <https://kudapan-rumput.github.io/ship/> -  Developed by kudapanrumput (Last updated on Mar 25, 2021)
+13. Wotla - <https://wotla.widdyjp.dev/> - Developed by Widdy JP
+14. Guess Blurred JKT48 Member - <https://jkt48-blurred-agm4r.vercel.app/> - Developed by Agmar
+15. JKT48 Blind Ranking Oshi - <https://jkt48-blurred-agm4r.vercel.app/blind-ranking-oshi> - Developed by Agmar
 
 Games
 1. Floniverse Adventure - <https://habilihsanproject.github.io/floniverse/> - Developed by HIBIKUN
