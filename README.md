@@ -16,7 +16,8 @@ Web Apps
 10.	JKT48 Ship Rank Battle - <https://kudapan-rumput.github.io/ship/> -  Developed by kudapanrumput (Last updated on Mar 25, 2021)
 11.	Wotla - <https://wotla.widdyjp.dev/> - Developed by Widdy JP
 12.	Guess Blurred JKT48 Member - <https://jkt48-blurred-agm4r.vercel.app/> - Developed by Agmar
-13.	JKT48 Blind Ranking Oshi - <https://jkt48-blurred-agm4r.vercel.app/blind-ranking-oshi> - Developed by Agmar
+13. JKT48 Pause Game dikembangkan oleh Agmar yang dapat diakses melalui https://jkt48-blurred.vercel.app/pause-game
+14.	JKT48 Blind Ranking Oshi - <https://jkt48-blurred-agm4r.vercel.app/blind-ranking-oshi> - Developed by Agmar
 
 Portal
 1. Sasae Collective (Koleksi Majalah) - https://sasaecollective.github.io/
@@ -30,5 +31,6 @@ Games
 
 Bot Telegram
 1. JKT48 Live - <https://t.me/JKT48Live>
-2. JKT48 Live Command Bot - <https://t.me/JKT48LiveCmdBot>
-3. JKT48 PM Downloader Bot - <https://t.me/pmdownloadbot>
+2. JKT48 x SHOWROOM Log - <https://t.me/showroomlog48>
+3. JKT48 Live Command Bot - <https://t.me/JKT48LiveCmdBot>
+4. JKT48 PM Downloader Bot - <https://t.me/pmdownloadbot>
